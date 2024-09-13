@@ -1,6 +1,3 @@
-# PETS_MOD
-Modified Probabilistic Ensemble and Trajectory Sampling
+# DR-PETS
+Distributionally Robust Probabilistic Ensemble and Trajectory Sampling Algorithm
 
-\begin{equation}
-x=32
-\end{equaion}
